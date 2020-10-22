@@ -18,13 +18,13 @@
 <details>
 <summary>How to pronounce my name?</summary>
 <br>
-Good question! It's Nachiket: nuh-chee-kate
+Thank you for asking. It's Nachiket: nuh-chee-kate. Naam toh suna hi hoga?
 </details>
 
 <details>
 <summary>How to contribute to my repos?</summary>
 <br>
-Great questions, Rockstar! Create an issue and I'll assign it to you!
+Great question! Create an issue and I'll assign it to you! May the force be with you.
 </details>
 
 
