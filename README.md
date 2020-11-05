@@ -18,7 +18,7 @@
 <details>
 <summary>How to pronounce my name?</summary>
 <br>
-Thank you for asking. It's Nachiket: nuh-chee-kate. Naam toh suna hi hoga?
+Thank you for asking. It's Nachiket: nuh-chee-kate.
 </details>
 
 <details>
