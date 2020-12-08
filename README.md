@@ -1,5 +1,3 @@
-![Hello](https://media1.tenor.com/images/f3f83bce571aa7901aa0855754187423/tenor.gif?itemid=13404804)
-
 ## I'm [Nachiket](https://nachiket.me/?utm_source=github&utm_medium=social&utm_campaign=generalHeading) <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">
 
 - 👨‍💻 Software Developer 
