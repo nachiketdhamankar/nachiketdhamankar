@@ -1,8 +1,7 @@
 ## I'm [Nachiket](https://nachiket.me/?utm_source=github&utm_medium=social&utm_campaign=generalHeading) <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">
 
 - 👨‍💻 Software Developer 
-- 📚 CS Grad student @ Northeastern
-- 💻 Interested in Backend and Cloud development
+- 📚 Masters in Computer Science, Northeastern University, Boston
 - ⚡ Always trying to learn something new and experimenting
 - 📫 Feel free to contribute to one of my projects
 
