@@ -1,3 +1,4 @@
+<!--
 ## I'm [Nachiket](https://nachiket.me/?utm_source=github&utm_medium=social&utm_campaign=generalHeading) <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">
 
 - 👨‍💻 Software Developer 
@@ -31,7 +32,6 @@ Great question! Create an issue and I'll assign it to you! May the force be with
 I like you, you rebel! 😎 I've hidden 5 flags in my repositories. If you find them, I'll give you a shoutout on twitter. These 5 flags are 64 character long alphanumeric strings. May the odds be ever in your favor!
 </details>
 
-<!--
 **nachiketdhamankar/nachiketdhamankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3> 🛠 &nbsp;Languages & Tools</h3>
